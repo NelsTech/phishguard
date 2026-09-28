@@ -1,0 +1,3 @@
+# Extra libraries for the OPTIONAL DistilBERT mode only
+torch
+transformers

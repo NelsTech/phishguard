@@ -1,0 +1,7 @@
+Subject: Account suspended
+
+Dear customer,
+
+Your Capitec account has been suspended due to unusual activity. Verify your account immediately at <a href="http://capitec-secure-login.xyz/verify?id=88af">www.capitecbank.co.za</a> or it will be closed within 24 hours.
+
+Capitec Security Team
